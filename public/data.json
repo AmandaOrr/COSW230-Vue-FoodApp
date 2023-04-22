@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 101,
+      "name": "Wrapped Roast Pork",
+      "description": "A potato and pork delight. Seasoned yukon golds wrapped in thick sliced bacon, roasted",
+      "image": "../images/roastnotpork.png",
+      "price": 2700,
+      "quantity": 0,
+      "inStock": false
+    },
+    {
+      "id": 102,
+      "name": "Mapo Doufu",
+      "description": "The heat of sichuan peppercorns and soft silken tofu, this dish is sure to spice up your senses",
+      "image": "images/mapodoufu.png",
+      "price": 1800,
+      "quantity": 8,
+      "inStock": true
+    },
+    {
+      "id": 103,
+      "name": "Rainbow Terrine",
+      "description": "Slightly blanched and perfectly seasoned veggies, in a rainbow arrangment for a delight of textures",
+      "image": "images/rainbowterrine.png",
+      "price": 1500,
+      "quantity": 7,
+      "inStock": true
+    },
+    {
+      "id": 104,
+      "name": "Chalipin Steak Don",
+      "description": "A delightful 4oz farmers steak, topped with juicy carmalized onions",
+      "image": "images/steakdon.png",
+      "price": 3200,
+      "quantity": 6,
+      "inStock": true
+    },
+    {
+      "id": 105,
+      "name": "Apple Rissoto",
+      "description": "A light white rice rissoto braised in fresh apple juice with roasted chunks of apple",
+      "image": "images/applierisotto.png",
+      "price": 1200,
+      "quantity": 3,
+      "inStock": true
+    }
+  ]
+}
